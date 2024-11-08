@@ -11,7 +11,7 @@ https://github.com/sidnioulz expects to do most of the dev work themselves but w
 
 ## Where to start?
 
-* Look up [open issues](https://github.com/Sidnioulz/design-tokens-docs/issues)
+* Look up [open issues](https://github.com/Sidnioulz/design-tokens-docs/issues) and/or the associated [GitHub project](https://github.com/users/Sidnioulz/projects/4) (with extra drafts, needs an invite)
 * Discuss, debate, contradict, propose, showcase: share your expertise
 * Propose your own topics in issues, discussions, etc.
 * Once consensus is reached on an issue, help prioritise it using the RICE framework
