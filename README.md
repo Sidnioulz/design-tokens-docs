@@ -9,6 +9,10 @@ Folks who are interested in participating and with a track record of FOSS contri
 
 https://github.com/sidnioulz expects to do most of the dev work themselves but want to give folks who care about this topic a chance to have their needs heard and addressed. This project is invite-only. Folks who were invited are welcome and encouraged to invite others too. Folks who work on closed-source commercial token documentation tools are not welcome on this project.
 
+## Overall architecture (imagined, subject to change)
+
+![Diagram of the imagined data pipeline for this project; Starting from design tools and common token management tools; which all lead to JSON token files being produced; optionally, Style Dictionary and Terrazzo can augment these files with platform-specific knowledge, and custom metadata can be provided; the doc tool parses this input, maps it to documentation pages, and then generates those pages with a templating tool into MDX, HTML, MD, Astro; doc tools then consume the most relevant page format.](https://github.com/user-attachments/assets/087a8a08-267e-4f1f-aef4-c93bb18ab392)
+
 ## Where to start?
 
 * Look up [open issues](https://github.com/Sidnioulz/design-tokens-docs/issues) and/or the associated [GitHub project](https://github.com/users/Sidnioulz/projects/4) (with extra drafts, needs an invite)
